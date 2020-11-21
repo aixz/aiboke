@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.baidu.com) and ![Image](src)
+[https://www.baidu.com](https://www.baidu.com) and ![Image](src)
 ```
 
 ```makedown
