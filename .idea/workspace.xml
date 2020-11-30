@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="113445bd-982b-45c0-a4f3-45057ecad024" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-29-deeplearning-linear_regression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,18 +58,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606042049820</updated>
-      <workItem from="1606042052326" duration="2502000" />
+      <workItem from="1606042052326" duration="3426000" />
+      <workItem from="1606145192566" duration="373000" />
+      <workItem from="1606178808586" duration="1514000" />
+      <workItem from="1606640784548" duration="358000" />
+      <workItem from="1606641162205" duration="2206000" />
+      <workItem from="1606752344429" duration="1147000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="279" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606640944860">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="279" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1606640944860" />
     <state x="292" y="197" key="EditFileWatcherDialog" timestamp="1606042279091">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="292" y="197" key="EditFileWatcherDialog/0.23.1280.777@0.23.1280.777" timestamp="1606042279091" />
+    <state x="234" y="55" key="SettingsEditor" timestamp="1606753100718">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="234" y="55" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1606753100718" />
     <state x="338" y="44" width="604" height="735" key="find.popup" timestamp="1606042090667">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
