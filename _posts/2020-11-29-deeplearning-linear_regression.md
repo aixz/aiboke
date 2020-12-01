@@ -16,7 +16,7 @@ comments: true
 激活函数 sigmod 函数
 
 
-$\hat{y}$ = $\sigma$()
+$\hat{y}$
 
 损失函数 
 ```
