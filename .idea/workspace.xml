@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="113445bd-982b-45c0-a4f3-45057ecad024" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-29-deeplearning-linear_regression.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-29-deeplearning-linear_regression.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <workItem from="1606178808586" duration="1514000" />
       <workItem from="1606640784548" duration="358000" />
       <workItem from="1606641162205" duration="2206000" />
-      <workItem from="1606752344429" duration="1991000" />
+      <workItem from="1606752344429" duration="2079000" />
     </task>
     <servers />
   </component>

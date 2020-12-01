@@ -15,6 +15,7 @@ comments: true
 
 激活函数 sigmod 函数
 
+\hat{y}
 
 $\hat{y}$
 
